@@ -1,0 +1,25 @@
+{
+  "name": "leccion1",
+  "version": "1.0.0",
+  "description": "Empezando con NPM y NodeJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelagd/guia-hoteles.git"
+  },
+  "author": "Adela García Domínguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelagd/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/adelagd/guia-hoteles#readme",
+  "keywords": [
+    "Nuestro",
+    "primer",
+    "proyecto",
+    "Nodejs"
+  ]
+}
