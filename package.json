@@ -4,7 +4,8 @@
   "description": "Empezando con NPM y NodeJS",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"dev": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
     "primer",
     "proyecto",
     "Nodejs"
-  ]
+  ],
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
